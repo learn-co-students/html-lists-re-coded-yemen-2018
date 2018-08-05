@@ -19,6 +19,12 @@ the `<li>` tag, _list item_.
 
 To make a list, we write out the opening and closing `<ul>` tags, and inside
 them, we'll add `<li>` tags, each listing a single month:
+We could use an attribute only with lists to indicate  the  shape of the list symbol 
+Of Ol 
+< ol shape="circle" or "square">
+For Ul 
+<ul shape="A" or "a" OR "I" or "I">
+
 
 ```HTML
 <ul>
